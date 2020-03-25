@@ -55,8 +55,8 @@ ul,li,dl,dt,dd,i { list-style: none;font-style: normal; margin: 0; padding: 0;}
 .myArticleCommentInputTitle .commentNum { color: #222; font-size: 16px; font-weight: bold; position: relative; float: left; color: #222;}
 .myArticleCommentInputTitle .commentShow { float: right;  font-size: 14px;}
 .myArticleCommentInputTitle .commentShow .am-icon-caret-down { color:#666}
-.myArticleInput { width: 100%;  overflow: hidden; padding-top: 10px;padding-bottom: 10px;}
-.myArticleInputLeft { position: relative; float: left; width: 50px; border-radius: 50%; margin-top: 10px; overflow: hidden; }
+.myArticleInput { width: 100%; padding-top: 10px;padding-bottom: 10px;}
+.myArticleInputLeft { position: relative; float: left; width: 50px; border-radius: 50%; margin-top: 10px; }
 .myArticleInputLeft img { width: 100%;}
 .myArticleInputRight { margin-left: 70px; height: 50px; line-height: 64px;}
 .myArticleInputRight input { display: inline-block; vertical-align: middle; height: 30px; text-indent: 20px; color: #222; border-radius: 9999px; border: 1px solid #d3d9dc; width: 100%;}
@@ -86,6 +86,6 @@ ul,li,dl,dt,dd,i { list-style: none;font-style: normal; margin: 0; padding: 0;}
 .myAppImgNewsBlock .myAppImgNewsTitle { font-size: 20px; color: #222; padding: 10px 0; font-weight: bold;}
 .myAppImgNewsBlock .myAppImgNewsUser { width: 100%; margin-bottom: 20px;}
 .myAppImgNewsBlock .myAppImgNewsUser .myAppImgNewsTiem { font-size: 12px; color: #c8cbd1; float: right; height: 40px; line-height: 40px;}
-.myAppImgNewsBlock .myAppImgNewsUser .myAppImgNewsIco { float: left; position: relative; width: 40px; border-radius: 50%; overflow: hidden;}
+.myAppImgNewsBlock .myAppImgNewsUser .myAppImgNewsIco { float: left; position: relative; width: 40px; border-radius: 50%;}
 .myAppImgNewsBlock .myAppImgNewsUser .myAppImgNewsIco img { width: 100%;}
 .myAppImgNewsBlock .myAppImgNewsUser .myAppImgNewsName { height: 40px; float: left; font-size: 16px; line-height: 40px; padding-left: 10px; color: #19bab3; font-weight: bold;}
