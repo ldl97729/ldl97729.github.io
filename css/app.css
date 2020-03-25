@@ -84,7 +84,7 @@ ul,li,dl,dt,dd,i { list-style: none;font-style: normal; margin: 0; padding: 0;}
 .myAppImgNewsBlock { width: 100%;}
 .myAppImgNewsBlock img {width: 100%;}
 .myAppImgNewsBlock .myAppImgNewsTitle { font-size: 20px; color: #222; padding: 10px 0; font-weight: bold;}
-.myAppImgNewsBlock .myAppImgNewsUser { overflow: hidden; width: 100%; margin-bottom: 20px;}
+.myAppImgNewsBlock .myAppImgNewsUser { width: 100%; margin-bottom: 20px;}
 .myAppImgNewsBlock .myAppImgNewsUser .myAppImgNewsTiem { font-size: 12px; color: #c8cbd1; float: right; height: 40px; line-height: 40px;}
 .myAppImgNewsBlock .myAppImgNewsUser .myAppImgNewsIco { float: left; position: relative; width: 40px; border-radius: 50%; overflow: hidden;}
 .myAppImgNewsBlock .myAppImgNewsUser .myAppImgNewsIco img { width: 100%;}
